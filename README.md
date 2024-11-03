@@ -1,7 +1,9 @@
 # COVID-19 Data Analysis in South Korea
 
 This repository contains a Power BI report that analyzes COVID-19 data in South Korea. The report leverages DAX functions for in-depth calculations and visualizations to uncover trends in COVID-19 cases, fatalities, and vaccinations.
+
 This repository is an analysis and visualization of COVID-19 Pandemic spread in South Korea from 01/20/2020 to 06/30/2020 by DS4C.
+
 See this in [Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset/data)
 
 ## Dataset
