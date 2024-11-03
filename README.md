@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis in South Korea
 
-This repository contains a Power BI report that analyzes COVID-19 data in South Korea. The report leverages DAX functions for in-depth calculations and visualizations to uncover trends in COVID-19 cases, fatalities, and vaccinations.
+This repository contains a Power BI report that analyzes COVID-19 data in South Korea. The report leverages DAX functions for in-depth calculations and visualizations to uncover trends in COVID-19 cases, fatalities, and treatments.
 
 This repository is an analysis and visualization of COVID-19 Pandemic spread in South Korea from 01/20/2020 to 06/30/2020 by DS4C.
 
@@ -32,7 +32,7 @@ This Power BI analysis provides insights into:
    ![Sales](screenshots/overview.png)
   
 
-- **Vaccination Progress**: Correlation between vaccination rates and case numbers.
+- **Treatment Progress**: Correlation between treatment rates and case numbers.
 - **Regional and Demographic Patterns**: Impact of COVID-19 across different regions and age groups in South Korea.
 
    ![Sales](screenshots/province.png)
@@ -47,11 +47,11 @@ This Power BI analysis provides insights into:
 
    ![Sales](screenshots/time.png)
   
-- **Vaccination Impact**: Observations on vaccination progress and its effect on reducing cases and fatalities.
+- **Treatment Impact**: Observations on treatment progress and its effect on reducing cases and fatalities.
   
   ![Sales](screenshots/patient.png)
   
-- **Regional Disparities**: Identification of regions with higher infection or vaccination rates.
+- **Regional Disparities**: Identification of regions with higher infection or treatment rates.
 
   ![Sales](screenshots/infection.png)
 
