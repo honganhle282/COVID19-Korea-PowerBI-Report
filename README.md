@@ -56,7 +56,7 @@ This Power BI analysis provides insights into:
 ## Tools and Techniques Used
 
 - **Power BI**: Used for data visualization and reporting.
-- **DAX (Data Analysis Expressions)**: Implemented for custom calculations, such as cumulative case counts, moving averages, and conditional measures for deeper insights.
+- **DAX (Data Analysis Expressions)**: Implemented for custom calculations, such as cumulative case counts, growth ratio, and conditional measures for deeper insights.
 ## 📊 DAX Formulas Used
 
 This project utilizes several DAX formulas to perform calculations and derive insights. Here are some key formulas implemented in the Power BI report:
