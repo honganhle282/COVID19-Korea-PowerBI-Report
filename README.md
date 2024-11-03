@@ -9,7 +9,6 @@ See this in [Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset
 ## Dataset
 - Case.csv (Data of COVID-19 infection cases)
 - PatientInfo.csv (Epidemiological data of COVID-19 patients)
-- PatientRoute.csv (Route data of COVID-19 patients)
 - Region.csv (Location and statistical data of the regions)
 - SearchTrend.csv (Trend data of the keywords searched in NAVER which is one of the largest portals)
 - SeoulFloating.csv (Data of floating population in Seoul, South Korea (from SK Telecom Big Data Hub))
