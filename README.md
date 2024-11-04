@@ -50,7 +50,7 @@ This Power BI analysis provides insights into:
   
   ![Sales](screenshots/patient.png)
   
-- **Regional Disparities**: Identification of regions with higher infection or recovery rates.
+- **Regional Disparities**: Identification of cases with higher infection or recovery rates.
 
   ![Sales](screenshots/infection.png)
 
